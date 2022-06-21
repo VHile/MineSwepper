@@ -1,6 +1,6 @@
 # MineSwepper
 * Main window
-<img src="./IMG/screen_1.PNG" width="300" alt="Screenshot1"/>
+<img src="./IMG/screen.PNG" width="300" alt="Screenshot1"/>
 
 
 * Settings window
